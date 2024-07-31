@@ -1,8 +1,7 @@
 - 👋 Olá! Eu sou o Hugo
-- 👀 Eu tenho interesse em Python
-- 🌱 Atualmente aprendo Python
+- 👀 Eu tenho interesse em Kotlin 
+- 🌱 Atualmente aprendo Kotlin, mas não tenho nenhum projeto prático 
 - 😄 Pronomes: Ele/Dele
-- ⚡ Fato interessante: Comecei a fazer meu bot(discord) sem saber programar(ainda não sei) 
 
 <!---
 ohugomvp/ohugomvp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
